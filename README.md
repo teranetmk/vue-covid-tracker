@@ -27,3 +27,4 @@ npm run serve
 ```
 npm run build
 ```
+# vue-covid-tracker
